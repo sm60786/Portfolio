@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage":"https://sm60786.github.io/Portfolio",
+  "homepage": "https://sm60786.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@mantine/core": "^7.12.2",
