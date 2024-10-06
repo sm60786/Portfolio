@@ -106,7 +106,7 @@ const ExperienceInfo = [
         company: "Adret Infotech",
         date: "October 2020 - May 2024",
         desc: " I leveraged my skills in Java, Selenium, automation testing, and MySQL to design and implement automated testing frameworks, ensuring robust software validation. I optimized database performance and reliability, and collaborated with cross-functional teams to enhance system operations and ensure seamless integration.",
-        skills: ["Java", "MySQL", "Selenium", "Jenkins", "JIRA",]
+        skills: ["Java", "MySQL", "Selenium", "Jenkins", "JIRA"]
     }
 ]
 const Slugs = [
